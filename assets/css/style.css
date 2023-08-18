@@ -9,8 +9,16 @@ body{
     padding-bottom: 1500px;
 }
 
+nav .logo{
+    position:absolute;
+    left:20px;
+    top:15px;
+    color: #fff;
+}
 
 nav{
+    display: flex;
+    justify-content: space-evenly;
     background-color: #333;;
 }
 
